@@ -1,2 +1,2 @@
 # BasaltAI
-BasaltAI explores how artificial intelligence can simplify and accelerate the UX research process autonomously.
+BasaltAI is a research project focused on exploring the potential of AI, specifically large language models (LLMs), in UX research. The aim is to accelerate the UX research process and provide insights to designers. By training these models to understand the core principles of human-computer interaction, the goal is to uncover future UX trends and patterns and speed up/automate the user research process.
